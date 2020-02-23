@@ -7,16 +7,12 @@
 #### 【準備する物】
 - **スマートスピーカー**
     - 本記事では、Amazon Echo Dot（第2世代）を使用します。
-<br>
 - **スマートリモコン**
     - 本記事では、<a href="https://nature.global/jp/landing-page-dm-g/?ref=listing_ad_nature40&gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELEuGy9t7e4McmrKbi7EuNRW5QwmScy_p5S-UICRZnGLcEdhIr78uRsaAiX4EALw_wcB" target="_blank">Nature Remo mini</a> を使用します。
-<br>
 - **家電（赤外線通信）**
     - 本記事では、テレビ、エアコン、シーリングライトを操作対象にします。
-<br>
 - **スマートフォン**
     - 本記事では、iPhoneを使用します。
-<br>
 - **設定用アプリ**　※以下のアプリをインストールしてください。
     - Amazon Alexa（以下、Alexaアプリ）
         - <a href="https://apps.apple.com/jp/app/amazon-alexa/id944011620">Apple Store</a>
