@@ -5,6 +5,9 @@
 <img src="img/00-flow.png">
 
 ### 【準備する物】
+
+今回の家電操作のために以下のものを用意する必要があります。<br>スマートスピーカーとスマートリモコンは、機種にもよりますが、1万円弱で揃えることができます。
+
 - **スマートスピーカー**
     - 本記事では、Amazon Echo Dot（第2世代）を使用します。
 - **スマートリモコン**
@@ -17,9 +20,10 @@
     - Amazon Alexa（以下、Alexaアプリ）
         - <a href="https://apps.apple.com/jp/app/amazon-alexa/id944011620">Apple Store</a>
         - <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=ja">Google Play</a>
-    - Nature Remo（以下、Nature Remoアプリ）
+    - Nature Remo（以下、Remoアプリ）
         - <a href="https://apps.apple.com/jp/app/nature-remo/id1193531669">Apple Store</a>
         - <a href="https://play.google.com/store/apps/details?id=global.nature.remo&hl=ja">Google Play</a>
+        <img src="img/02-00.png" width="400px">
 
 <br>
 
